@@ -1,0 +1,67 @@
+{
+    "profile": [
+        "http://iiif.io/api/image/2/level0.json", 
+        {
+            "qualities": [
+                "default"
+            ], 
+            "formats": [
+                "jpg"
+            ]
+        }
+    ], 
+    "tiles": [
+        {
+            "width": 512, 
+            "scaleFactors": [
+                1, 
+                2, 
+                4
+            ], 
+            "height": 512
+        }
+    ], 
+    "protocol": "http://iiif.io/api/image", 
+    "sizes": [
+        {
+            "width": 212, 
+            "height": 292
+        }, 
+        {
+            "width": 106, 
+            "height": 146
+        }, 
+        {
+            "width": 53, 
+            "height": 73
+        }, 
+        {
+            "width": 27, 
+            "height": 36
+        }, 
+        {
+            "width": 13, 
+            "height": 18
+        }, 
+        {
+            "width": 7, 
+            "height": 9
+        }, 
+        {
+            "width": 3, 
+            "height": 5
+        }, 
+        {
+            "width": 2, 
+            "height": 2
+        }, 
+        {
+            "width": 1, 
+            "height": 1
+        }
+    ], 
+    "height": 2334, 
+    "width": 1696, 
+    "@context": "http://iiif.io/api/image/2/context.json", 
+    "@id": "https://glenrobson.github.io/iiif/welsh_book/page001"
+}
