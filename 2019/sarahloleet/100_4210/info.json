@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "100_4210",
+  "@id": "https://dhsi-iiif.github.io/2019/sarahloleet/100_4210",
   "height": 2748,
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
