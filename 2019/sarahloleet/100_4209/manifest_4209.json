@@ -1,0 +1,108 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://721ddb8a-aeb1-4b5a-88e9-13baf16dd715",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://ddfd2e9a-7099-4b0e-b3d5-fada0a72794a",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://87f06f77-9196-46aa-ad33-c651d964362f",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2748,
+					"width": 3664,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://05add630-e0c9-46ab-adff-f8124f280914",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://dhsi-iiif.github.io/2019/sarahloleet/100_4208/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://dhsi-iiif.github.io/2019/sarahloleet/100_4208",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 2748,
+								"width": 3664
+							},
+							"on": "http://87f06f77-9196-46aa-ad33-c651d964362f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://d4136c17-7236-40fb-9b6e-3dc5e2718fc6",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2748,
+					"width": 3664,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b344993b-6dd7-4d3c-a62e-261a0ba35b1c",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://dhsi-iiif.github.io/2019/sarahloleet/100_4209/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://dhsi-iiif.github.io/2019/sarahloleet/100_4209",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 2748,
+								"width": 3664
+							},
+							"on": "http://d4136c17-7236-40fb-9b6e-3dc5e2718fc6"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

@@ -1,0 +1,69 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://721ddb8a-aeb1-4b5a-88e9-13baf16dd715",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://ddfd2e9a-7099-4b0e-b3d5-fada0a72794a",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://87f06f77-9196-46aa-ad33-c651d964362f",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2748,
+					"width": 3664,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://05add630-e0c9-46ab-adff-f8124f280914",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://dhsi-iiif.github.io/2019/sarahloleet/100_4208/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://dhsi-iiif.github.io/2019/sarahloleet/100_4208",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 2748,
+								"width": 3664
+							},
+							"on": "http://87f06f77-9196-46aa-ad33-c651d964362f"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
