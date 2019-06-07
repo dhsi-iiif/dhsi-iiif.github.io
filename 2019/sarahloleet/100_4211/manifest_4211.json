@@ -6,7 +6,7 @@
 	"metadata": [],
 	"description": [
 		{
-			"@value": "Front cover and spine",
+			"@value": "Interior Cover",
 			"@language": "en"
 		}
 	],
@@ -97,6 +97,84 @@
 								"width": 3664
 							},
 							"on": "http://d4136c17-7236-40fb-9b6e-3dc5e2718fc6"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://149a95cb-0e1c-4cbe-9f93-f9afb83f9bd8",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2748,
+					"width": 3664,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://cde748fb-e75b-43d3-b5c5-79f3e5ec89b4",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://dhsi-iiif.github.io/2019/sarahloleet/100_4210/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://dhsi-iiif.github.io/2019/sarahloleet/100_4210",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 2748,
+								"width": 3664
+							},
+							"on": "http://149a95cb-0e1c-4cbe-9f93-f9afb83f9bd8"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://0b247ea2-c28a-4847-b806-2b8d07feead9",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 3664,
+					"width": 2748,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://03c1b64e-f109-4836-8767-725380e7034e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://dhsi-iiif.github.io/2019/sarahloleet/100_4211/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://dhsi-iiif.github.io/2019/sarahloleet/100_4211",
+									"profile": [
+										"http://iiif.io/api/image/2/level0.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"default"
+											]
+										}
+									]
+								},
+								"height": 3664,
+								"width": 2748
+							},
+							"on": "http://0b247ea2-c28a-4847-b806-2b8d07feead9"
 						}
 					],
 					"related": ""

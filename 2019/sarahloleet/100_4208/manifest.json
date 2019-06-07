@@ -2,16 +2,16 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://721ddb8a-aeb1-4b5a-88e9-13baf16dd715",
 	"@type": "sc:Manifest",
-	"label": "[Click to edit label]",
+	"label": "MS Beinecke Osborne a.2",
 	"metadata": [],
 	"description": [
 		{
-			"@value": "[Click to edit description]",
+			"@value": "Frong Cover",
 			"@language": "en"
 		}
 	],
 	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "[Click to edit attribution]",
+	"attribution": "Yale University, Beinecke Library",
 	"sequences": [
 		{
 			"@id": "http://ddfd2e9a-7099-4b0e-b3d5-fada0a72794a",
