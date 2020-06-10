@@ -14,7 +14,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 2392,
-  "@id" : "http://localhost:8887/iiif/17-10-1902",
+  "@id" : "https://dhsi-iiif.github.io/2019/noirchivist/17-10-1902>",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 3671
 }
