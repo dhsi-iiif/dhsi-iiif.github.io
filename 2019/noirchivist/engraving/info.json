@@ -17,7 +17,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 2841,
-  "@id" : "http://localhost:8887/iiif/engraving",
+  "@id" : "https://dhsi-iiif.github.io/2019/noirchivist/engraving",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 3289
 }
