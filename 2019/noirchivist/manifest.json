@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://e84021cf-dc2e-4d1b-98d4-1c74cdc7723e",
+	"@id": "https://dhsi-iiif.github.io/2019/noirchivist/manifest.json",
 	"@type": "sc:Manifest",
 	"label": "Dychweliad Morgan Bach, o Awstralia, a'i fam (Gwen o'r Gyrnos) yn methu ei adnabod",
 	"metadata": [],
