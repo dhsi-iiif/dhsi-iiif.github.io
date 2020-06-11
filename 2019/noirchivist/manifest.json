@@ -1,0 +1,159 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://e84021cf-dc2e-4d1b-98d4-1c74cdc7723e",
+	"@type": "sc:Manifest",
+	"label": "Dychweliad Morgan Bach, o Awstralia, a'i fam (Gwen o'r Gyrnos) yn methu ei adnabod",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Isaac Thomas of Aberdare, fl.186--1881., R. Jones printer. Aberdar : Jones a'i Mab, arg. Printed between 1873 and 1887.",
+			"@language": "cy"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/4.0/",
+	"attribution": "Cardiff University Special Collections and Archives",
+	"sequences": [
+		{
+			"@id": "http://10277f34-0d4e-48e0-97a1-552f15402748",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://505aa9c2-8d75-40aa-a6d9-82ca8a801390",
+					"@type": "sc:Canvas",
+					"label": "1r",
+					"height": 2864,
+					"width": 1802,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a546f47d-ccff-4724-8863-52add0c09dd1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/WG35-2-100a$WG35-2-100a.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/WG35-2-100a$WG35-2-100a.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 2864,
+								"width": 1802
+							},
+							"on": "http://505aa9c2-8d75-40aa-a6d9-82ca8a801390"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://058becb6-3ae1-4966-bf3a-cb6041c8263a",
+					"@type": "sc:Canvas",
+					"label": "1v",
+					"height": 2864,
+					"width": 1802,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://34370cff-11de-499f-93a5-02040a081ccf",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/WG35-2-100b$WG35-2-100b.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/WG35-2-100b$WG35-2-100b.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 2864,
+								"width": 1802
+							},
+							"on": "http://058becb6-3ae1-4966-bf3a-cb6041c8263a"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://11a367ba-bb68-416b-b1de-5c43cdcce808",
+					"@type": "sc:Canvas",
+					"label": "2r",
+					"height": 2864,
+					"width": 1802,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://04f81005-79ca-4bf2-b395-f9358c2084dc",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/WG35-2-100c$WG35-2-100c.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/WG35-2-100c$WG35-2-100c.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 2864,
+								"width": 1802
+							},
+							"on": "http://11a367ba-bb68-416b-b1de-5c43cdcce808"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://1105bc1d-a4ea-40fa-8837-4acf2cfe7b49",
+					"@type": "sc:Canvas",
+					"label": "2v",
+					"height": 2864,
+					"width": 1802,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://39f17811-831d-449c-a4df-014db04a063f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/WG35-2-100d$WG35-2-100d.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/WG35-2-100d$WG35-2-100d.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 2864,
+								"width": 1802
+							},
+							"on": "http://1105bc1d-a4ea-40fa-8837-4acf2cfe7b49"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingDirection": "left-to-right",
+	"viewingHint": "paged",
+	"thumbnail": {
+		"@id": "http://505aa9c2-8d75-40aa-a6d9-82ca8a801390"
+	}
+}
