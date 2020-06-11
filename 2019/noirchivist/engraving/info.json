@@ -1,0 +1,23 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 947,
+    "height" : 1096
+  }, {
+    "width" : 1420,
+    "height" : 1644
+  }, {
+    "width" : 2841,
+    "height" : 3289
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2841,
+  "@id" : "http://localhost:8887/iiif/engraving",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3289
+}
