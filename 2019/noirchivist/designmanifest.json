@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://042d1f58-14a9-477b-b3e8-f130063dda78",
+	"@id": "https://dhsi-iiif.github.io/2019/noirchivist/designmanifest.json",
 	"@type": "sc:Manifest",
 	"label": "Rossetti's design for Tennyson's Palace of Art",
 	"metadata": [],
