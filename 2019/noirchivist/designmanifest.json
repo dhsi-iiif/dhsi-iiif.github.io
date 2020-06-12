@@ -1,0 +1,61 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://dhsi-iiif.github.io/2019/noirchivist/designmanifest.json",
+	"@type": "sc:Manifest",
+	"label": "Rossetti's design for Tennyson's Palace of Art",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Dante Gabriel Rossetti's original sketched design for an engraving to illustrate Tennyson's poem, The Palace of Art, in Moxon's 1857 edition. Less than 10cm tall, the drawing crams a huge amount of detail into the space, presenting a challenging task for the wood engravers.\n\nBrown pen, ink and black ink on paper.\nHeight: 9.9 cm (3.8 in); Width: 8.2 cm (3.2 in)",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/4.0/",
+	"attribution": "Birmingham Museum and Art Gallery",
+	"sequences": [
+		{
+			"@id": "http://dd9ef8e7-094f-447c-b90d-95225b5964d9",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://84357dba-2361-4b16-94bb-4c9419fe77ee",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 6151,
+					"width": 5429,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://93060d8f-49df-4a55-ae5d-800b86bfdb73",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/designpalace$designpalace.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/designpalace$designpalace.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 6151,
+								"width": 5429
+							},
+							"on": "http://84357dba-2361-4b16-94bb-4c9419fe77ee"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
