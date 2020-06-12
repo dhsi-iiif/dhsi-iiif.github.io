@@ -1,0 +1,869 @@
+{
+       "@context":"http://iiif.io/api/presentation/2/context.json",
+       "@id":"http://localhost:8887/annotations1.json",
+       "@type":"sc:AnnotationList",
+       "resources":
+       [ {
+  "@id" : "http://35.177.224.176:8888/annotation/1591907006716",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T20:23:26",
+  "dcterms:modified" : "2020-06-11T20:26:49",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=225,375,309,117"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M224.50723,492.03782l309.09091,-117.27273\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_e35d9f5c-27a3-4643-a1ac-de1e1dce0ec6\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#6692b1\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"2,5,7,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591906979508",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T20:22:59",
+  "dcterms:modified" : "2020-06-11T20:26:58",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=216,375,318,240"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M534.50722,374.76509l-318.18181,240\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_1f0b7fcb-4e2e-4113-8f42-d5c6cfa1e8b0\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#6692b1\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"2,5,7,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591906683446",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T20:18:03",
+  "dcterms:modified" : "2020-06-11T20:29:24",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b4",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=214,249,189,189"
+      },
+      "item" : {
+        "@id" : "_:b3",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M214.33622,437.85811l7.27273,-185.45455l181.81818,-3.63636\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_9c37bfde-0e2d-431c-83df-6e0dd0002bfa\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#86959f\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591907738484",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T20:35:38",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=221,166,359,82"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M579.19091,166.25455l-358.69091,82.47273\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_a45a4673-d3ef-495f-af3c-46ae1d650915\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#6692b1\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"2,5,7,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591907693065",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T20:34:53",
+  "dcterms:modified" : "2020-06-11T20:35:56",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=230,168,348,182"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M578.26397,167.70472l-348.18182,181.81818\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_a9170991-e59c-4cbe-8032-7cdefe18b5de\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#6692b1\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"2,5,7,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591907138403",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T20:25:38",
+  "dcterms:modified" : "2020-06-11T20:50:46",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=226,345,330,203"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M556.32541,344.76509l-325.45455,5.45454l-4.54545,197.27272\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_7de46d06-2a1f-4809-9cc0-7d62288b1c21\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#6692b1\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591908358352",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T20:45:58",
+  "dcterms:modified" : [ "2020-06-11T20:51:44", "2020-06-11T21:24:53" ],
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=384,169,195,208"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M578.86378,169.00085l-45.45454,208.18181l-149.0909,-107.27273\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_d303d080-4635-471a-8b1a-1554d01ce778\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#cddfec\" stroke-width=\"7.27273\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591907797012",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T20:36:37",
+  "dcterms:modified" : [ "2020-06-11T20:52:27", "2020-06-11T21:26:23" ],
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=225,164,357,215"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M582.65771,164.46996l-50,215.45455l-307.27273,-125.45455\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_2454866e-50b1-4373-bcfd-04c410ccc0f9\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#a1bec8\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591910600438",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T21:23:20",
+  "dcterms:modified" : "2020-06-11T21:26:39",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=224,168,357,212"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M581.57731,167.58332l-48.0934,211.79097l-309.05237,-126.10065\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_45624c77-11dc-40c0-b6f1-858c18182996\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#a1bec8\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591908763678",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T20:52:43",
+  "dcterms:modified" : "2020-06-11T21:29:56",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "dynamometer: two pulleys attached to a men's arm allow him to weight 200 pounds",
+    "format" : "text/html",
+    "chars" : "<p>dynamometer: two pulleys attached to a men's arm allow him to weight 200 pounds</p>"
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=233,165,349,217"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M582.48663,164.67901l-47.6876,216.61075l-301.65268,-31.1562\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_b155a787-8d53-4a5b-bd4c-53ac123cc351\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#acb2ca\" stroke-width=\"19.43955\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591911120072",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T21:32:00",
+  "dcterms:modified" : "2020-06-11T21:32:41",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b4",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=413,631,237,199"
+      },
+      "item" : {
+        "@id" : "_:b3",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M649.88585,630.93474l-127.86079,199.25534l-108.73569,-112.66938\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_ca93c572-1678-49d2-b6cf-f0f6c42aebfd\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#c3e0ea\" stroke-width=\"7.27273\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591911589729",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T21:39:49",
+  "dcterms:modified" : "2020-06-11T21:40:17",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=205,635,442,89"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M646.35208,635.21206l-441.50464,88.54507\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_f071c08e-4041-4dd5-affa-c8ea87df9569\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#6e95a2\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"2,5,7,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591911197618",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T21:33:17",
+  "dcterms:modified" : "2020-06-11T21:40:27",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=204,633,448,202"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M651.31138,632.77572l-128.35491,201.55055l-319.29163,-107.91419\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_be7f614a-478d-41d1-9f54-0d052a4f6bec\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#9fbdc6\" stroke-width=\"7.27273\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591911653627",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T21:40:53",
+  "dcterms:modified" : "2020-06-11T21:41:18",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=198,834,325,109"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M522.29548,834.45699l-324.54546,109.09091\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_3a88afe4-f3f8-459e-8f56-0d615ad2c222\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#81a8b5\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"2,5,7,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591911733575",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T21:42:13",
+  "dcterms:modified" : "2020-06-11T21:42:58",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=201,719,211,152"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M411.81819,718.70682l-209.09092,7.27272l-1.81818,144.54545\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_4f47dcfc-8967-4612-afaf-9e2890bd29e2\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#6e95a2\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591911829183",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T21:43:49",
+  "dcterms:modified" : "2020-06-11T21:46:51",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=391,401,441,170"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M391.00683,570.01753l64.57127,-76.30278l170.12905,-38.87423l58.67508,-54.32878l147.77427,8.6926\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_5cfe2e94-b2c1-4fba-9239-f92761cc079f\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#6e95a2\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591912032254",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T21:47:12",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=672,358,25,87"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M671.77107,358.34862l25.09091,87.27273\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_4bffc76a-b19f-4502-a1c0-e2f4deee3493\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#8db5d7\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591912163173",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T21:49:23",
+  "dcterms:modified" : "2020-06-11T21:49:51",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=416,409,399,134"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M416.49834,542.71226l104.72727,-28.36364l108,-57.81819l67.63636,-14.18182l118.9091,-33.81818\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_72f8f205-3c73-409f-8eac-4fcce75a06c6\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#8db5d7\" stroke-width=\"8.72727\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591912069312",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T21:47:49",
+  "dcterms:modified" : "2020-06-11T21:50:02",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=401,358,419,187"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M401.22561,544.89408l22.90909,-64.36363l202.90909,-26.18182l46.90909,-96l146.18182,51.27272\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_b99ef119-7ce5-42a2-bf1e-e33f32b04217\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#6e95a2\" stroke-width=\"6.54545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"2,5,7,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591911995680",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T21:46:35",
+  "dcterms:modified" : "2020-06-11T21:50:17",
+  "resource" : [ {
+    "@id" : "_:b2",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b3",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=424,482,99,34"
+      },
+      "item" : {
+        "@id" : "_:b4",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M424.1347,481.80317l98.90909,34.36364\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_1a8bcca4-affc-42fa-9f47-fd9d3cae0734\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#8db5d7\" stroke-width=\"6.54545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591912249990",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T21:50:49",
+  "dcterms:modified" : "2020-06-11T21:52:21",
+  "resource" : [ {
+    "@id" : "_:b4",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  }, {
+    "@id" : "_:b5",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b6",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=518,443,184,74"
+      },
+      "item" : {
+        "@id" : "_:b7",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M517.83214,516.3543l183.89091,-71.78182v-1.81818\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_f917967d-3e45-4e68-a20d-2ff952c2f3ae\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#6e95a2\" stroke-width=\"1.30909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"2,5,7,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  }, {
+    "@id" : "_:b2",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b3",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b8",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=518,443,184,74"
+      },
+      "item" : {
+        "@id" : "_:b9",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M517.83214,516.3543l183.89091,-71.78182v-1.81818\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_f917967d-3e45-4e68-a20d-2ff952c2f3ae\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#6e95a2\" stroke-width=\"1.30909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"2,5,7,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}, {
+  "@id" : "http://35.177.224.176:8888/annotation/1591912249990",
+  "@type" : "oa:Annotation",
+  "dcterms:created" : "2020-06-11T21:50:49",
+  "dcterms:modified" : "2020-06-11T21:52:21",
+  "resource" : [ {
+    "@id" : "_:b4",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  }, {
+    "@id" : "_:b5",
+    "@type" : "dctypes:Text",
+    "http://dev.llgc.org.uk/sas/full_text" : "",
+    "format" : "text/html",
+    "chars" : ""
+  } ],
+  "on" : [ {
+    "@id" : "_:b0",
+    "@type" : "oa:SpecificResource",
+    "within" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+    "selector" : {
+      "@id" : "_:b1",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b6",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=518,443,184,74"
+      },
+      "item" : {
+        "@id" : "_:b7",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M517.83214,516.3543l183.89091,-71.78182v-1.81818\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_f917967d-3e45-4e68-a20d-2ff952c2f3ae\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#6e95a2\" stroke-width=\"1.30909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"2,5,7,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  }, {
+    "@id" : "_:b2",
+    "@type" : "oa:SpecificResource",
+    "within" : {
+      "@id" : "http://f03f507b-59a5-4779-8572-85cd893f0589",
+      "@type" : "sc:Manifest"
+    },
+    "selector" : {
+      "@id" : "_:b3",
+      "@type" : "oa:Choice",
+      "default" : {
+        "@id" : "_:b8",
+        "@type" : "oa:FragmentSelector",
+        "value" : "xywh=518,443,184,74"
+      },
+      "item" : {
+        "@id" : "_:b9",
+        "@type" : "oa:SvgSelector",
+        "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M517.83214,516.3543l183.89091,-71.78182v-1.81818\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_f917967d-3e45-4e68-a20d-2ff952c2f3ae\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#6e95a2\" stroke-width=\"1.30909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"2,5,7,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+      }
+    },
+    "full" : "http://d7c5c362-8167-48c4-a4f3-5e128de9c790"
+  } ],
+  "motivation" : [ "oa:commenting" ],
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+} ]
+}
