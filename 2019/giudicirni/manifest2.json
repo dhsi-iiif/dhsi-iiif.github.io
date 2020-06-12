@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://f03f507b-59a5-4779-8572-85cd893f0589",
+	"@id": "https://dhsi-iiif.github.io/2019/giudicirni/manifest2.json",
 	"@type": "sc:Manifest",
 	"label": "Leonardo da Vinci's Fable and Emblem of the Lily",
 	"metadata": [],
