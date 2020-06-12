@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://dhsi-iiif.github.io/2019/noirchivist/designmanifest.json",
+	"@id": "http://650ee435-7cea-4e8d-b19b-98e832cd3037",
 	"@type": "sc:Manifest",
 	"label": "Rossetti's design for Tennyson's Palace of Art",
 	"metadata": [],
@@ -14,7 +14,7 @@
 	"attribution": "Birmingham Museum and Art Gallery",
 	"sequences": [
 		{
-			"@id": "http://de8043fc-3498-49a6-8c0a-b25cd4213a6f",
+			"@id": "http://1995a3c4-a8f6-4c6c-870b-9261db7623d4",
 			"@type": "sc:Sequence",
 			"label": [
 				{
@@ -24,7 +24,7 @@
 			],
 			"canvases": [
 				{
-					"@id": "http://fb735262-67ab-4770-9f9d-99a174086a4c",
+					"@id": "http://2dfc100a-c4e4-404c-9403-9dae402f5e8c",
 					"@type": "sc:Canvas",
 					"label": "Empty canvas",
 					"height": 6151,
@@ -32,22 +32,24 @@
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://0242917c-27ff-464a-a90d-ceae052239d1",
+							"@id": "http://ae9ffe69-59c1-4801-b5ac-0eb4ef2bf54f",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://dhsi-iiif.github.io/2019/noirchivist/design/full/full/0/default.jpg",
+								"@id": "https://iiif.archivelab.org/iiif/designpalace$designpalace.jpg/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://dhsi-iiif.github.io/2019/noirchivist/design",
-									"profile": "http://iiif.io/api/image/2/level0.json"
+									"@id": "https://iiif.archivelab.org/iiif/designpalace$designpalace.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
 								},
 								"height": 6151,
 								"width": 5429
 							},
-							"on": "http://fb735262-67ab-4770-9f9d-99a174086a4c"
+							"on": "http://2dfc100a-c4e4-404c-9403-9dae402f5e8c"
 						}
 					],
 					"related": ""
