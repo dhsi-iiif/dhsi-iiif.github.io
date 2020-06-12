@@ -175,13 +175,7 @@
               "@id": "http://example.org/iiif/book1/range/r1",
               "@type": "sc:Range",
               "label": "Diagrammatic study of the evolution of Leonardo da Vinci's fable and emblem of the lily",
-              "canvases": [
-								"http://573c09f4-3959-47d9-bac5-b9ba6274ea77",
-								"http://d7c5c362-8167-48c4-a4f3-5e128de9c790",
-								"http://f08411f5-5daa-4f60-b6ce-8348916c7197",
-								"http://e52d6275-6190-423e-842b-2558ac3c989c",
-								"http://fa1ec5a6-1b33-4a11-91f3-b5d348da6e40"
-							]
+              "canvases": ["http://573c09f4-3959-47d9-bac5-b9ba6274ea77"]
         }
 		],
 	"thumbnail": {
