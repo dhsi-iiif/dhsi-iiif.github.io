@@ -1,0 +1,59 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://042d1f58-14a9-477b-b3e8-f130063dda78",
+	"@type": "sc:Manifest",
+	"label": "Rossetti's design for Tennyson's Palace of Art",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Dante Gabriel Rossetti's original sketched design for an engraving to illustrate Palace of Art in Moxon's 1857 edition of Tennyson's poems.\n\nBrown pen, ink and black ink on paper.\nHeight: 9.9 cm (3.8 in); Width: 8.2 cm (3.2 in)",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/4.0/",
+	"attribution": "Birmingham Museum and Art Gallery",
+	"sequences": [
+		{
+			"@id": "http://de8043fc-3498-49a6-8c0a-b25cd4213a6f",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://fb735262-67ab-4770-9f9d-99a174086a4c",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 6151,
+					"width": 5429,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0242917c-27ff-464a-a90d-ceae052239d1",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://dhsi-iiif.github.io/2019/noirchivist/design/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://dhsi-iiif.github.io/2019/noirchivist/design",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 6151,
+								"width": 5429
+							},
+							"on": "http://fb735262-67ab-4770-9f9d-99a174086a4c"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
