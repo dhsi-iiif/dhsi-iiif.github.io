@@ -1,0 +1,210 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@type": "sc:Manifest",
+	"@id": "http://dams.llgc.org.uk/iiif/2.0/4717412/manifest.json",
+	"label": "Letters to Helen Thomas, 1914",
+	"metadata": [
+		{
+			"label": [
+				{
+					"@value": "Title",
+					"@language": "en"
+				},
+				{
+					"@value": "Teitl",
+					"@language": "cy-GB"
+				}
+			],
+			"value": "Letters to Helen Thomas, 1914"
+		},
+		{
+			"label": [
+				{
+					"@value": "Date",
+					"@language": "en"
+				},
+				{
+					"@value": "Dyddiad",
+					"@language": "cy-GB"
+				}
+			],
+			"value": "1914"
+		},
+		{
+			"label": [
+				{
+					"@value": "Physical description",
+					"@language": "en"
+				},
+				{
+					"@value": "Disgrifiad ffisegol",
+					"@language": "cy-GB"
+				}
+			],
+			"value": "92 ff. ; 225 x 175 mm. and less. Boxed in quarter-morocco folding case by Sangorski & Sutcliffe."
+		},
+		{
+			"label": [
+				{
+					"@value": "Permalink",
+					"@language": "en"
+				},
+				{
+					"@value": "Dolen barhaol",
+					"@language": "cy-GB"
+				}
+			],
+			"value": "<a href=\"http://hdl.handle.net/10107/4717412\">http://hdl.handle.net/10107/4717412</a>"
+		},
+		{
+			"label": [
+				{
+					"@value": "Reference",
+					"@language": "en"
+				},
+				{
+					"@value": "Cyfeirnod",
+					"@language": "cy-GB"
+				}
+			],
+			"value": "Preferred citation: NLW MS 22916C."
+		},
+		{
+			"label": [
+				{
+					"@value": "Repository",
+					"@language": "en"
+				},
+				{
+					"@value": "Ystorfa",
+					"@language": "cy-GB"
+				}
+			],
+			"value": [
+				{
+					"@value": "This content has been digitised by The National Library of Wales",
+					"@language": "en"
+				},
+				{
+					"@value": "Digidwyd y cynnwys hwn gan Lyfrgell Genedlaethol Cymru",
+					"@language": "cy-GB"
+				}
+			]
+		}
+	],
+	"description": "Eleven letters, October 1914, from Edward Thomas to his wife, Helen Thomas, in the form of a journal of his bicycle tour in Hampshire, Wiltshire, Glamorgan and Breconshire, together with an account of his visit to Robert Frost at Dymock, Gloucestershire.",
+	"license": "http://creativecommons.org/licenses/by-nc/4.0/",
+	"logo": {
+		"@id": "http://dams.llgc.org.uk/iiif/2.0/image/logo/full/400,/0/default.jpg",
+		"service": {
+			"@context": "http://iiif.io/api/image/2/context.json",
+			"@id": "http://dams.llgc.org.uk/iiif/2.0/image/logo",
+			"profile": "http://iiif.io/api/image/2/level1.json"
+		}
+	},
+	"attribution": [
+		{
+			"@value": "The Edward Thomas Estate",
+			"@language": "en"
+		},
+		{
+			"@value": "Ystad Edward Thomas",
+			"@language": "cy-GB"
+		}
+	],
+	"sequences": [
+		{
+			"@id": "http://dams.llgc.org.uk/iiif/2.0/4717412/sequence/Physical.json",
+			"@type": "sc:Sequence",
+			"label": "Current Page Order",
+			"viewingDirection": "left-to-right",
+			"viewingHint": "paged",
+			"canvases": [
+				{
+					"@id": "http://dams.llgc.org.uk/iiif/2.0/4717412/canvas/4717413.json",
+					"@type": "sc:Canvas",
+					"label": "1 r.",
+					"height": 2047,
+					"width": 2058,
+					"images": [
+						{
+							"@id": "http://dams.llgc.org.uk/iiif/2.0/4717412/annotation/4717413.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4717413/full/1200,/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://dams.llgc.org.uk/iiif/2.0/image/4717413",
+									"profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+									"height": 2047,
+									"width": 2058,
+									"tiles": [
+										{
+											"width": 256,
+											"height": 256,
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16
+											]
+										}
+									]
+								},
+								"height": 2047,
+								"width": 2058
+							},
+							"on": "http://dams.llgc.org.uk/iiif/2.0/4717412/canvas/4717413.json"
+						}
+					]
+				},
+				{
+					"@id": "http://dams.llgc.org.uk/iiif/2.0/4717412/canvas/4717414.json",
+					"@type": "sc:Canvas",
+					"label": "2 r.",
+					"height": 2038,
+					"width": 2070,
+					"images": [
+						{
+							"@id": "http://dams.llgc.org.uk/iiif/2.0/4717412/annotation/4717414.json",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4717414/full/1200,/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://dams.llgc.org.uk/iiif/2.0/image/4717414",
+									"profile": "http://library.stanford.edu/iiif/image-api/compliance.html#level1",
+									"height": 2038,
+									"width": 2070,
+									"tiles": [
+										{
+											"width": 256,
+											"height": 256,
+											"scaleFactors": [
+												1,
+												2,
+												4,
+												8,
+												16
+											]
+										}
+									]
+								},
+								"height": 2038,
+								"width": 2070
+							},
+							"on": "http://dams.llgc.org.uk/iiif/2.0/4717412/canvas/4717414.json"
+						}
+					]
+				},
+			}
+		}
+	]
+}	
