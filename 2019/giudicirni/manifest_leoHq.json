@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://dhsi-iiif.github.io/2019/giudicirni/manifest2.json",
+	"@id": "https://dhsi-iiif.github.io/2019/giudicirni/manifestleoHq.json",
 	"@type": "sc:Manifest",
 	"label": "Leonardo da Vinci's Fable and Emblem of the Lily",
 	"metadata": [],
@@ -74,12 +74,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://iiif.archivelab.org/iiif/rl-12700v/full/full/0/default.jpg",
+								"@id": "https://rct.resourcespace.com/iiif/912700/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://iiif.io/api/image/2/context.json",
-									"@id": "https://iiif.archivelab.org/iiif/rl-12700v",
+									"@id": "https://rct.resourcespace.com/iiif/912700",
 									"profile": [
 										"http://iiif.io/api/image/2/level2.json"
 									]
