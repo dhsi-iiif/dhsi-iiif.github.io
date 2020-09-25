@@ -1,0 +1,254 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a title=\"Virgin of Candelaria festival, Puno, Peru\" href=\"https://youtu.be/wmPXyQkbyX8\" target=\"_blank\" rel=\"noopener\">https://youtu.be/wmPXyQkbyX8\nCanderlaria Festival, Puno, Peru\n<iframe src=\"//www.youtube.com/embed/wmPXyQkbyX8\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\">",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a title=\"Virgin of Candelaria festival, Puno, Peru\" href=\"https://youtu.be/wmPXyQkbyX8\" target=\"_blank\" rel=\"noopener\">https://youtu.be/wmPXyQkbyX8</a></p>\n<p>Canderlaria Festival, Puno, Peru</p>\n<p><iframe src=\"//www.youtube.com/embed/wmPXyQkbyX8\" width=\"560\" height=\"314\" allowfullscreen=\"allowfullscreen\"></iframe></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2020-09-24T16:51:37",
+    "@id" : "http://sas.gdmrdigital.com/annotation/1600966297188",
+    "dcterms:modified" : "2020-09-24T19:35:38",
+    "@context" : [ {
+      "viewingDirection" : {
+        "@type" : "@id",
+        "@id" : "sc:viewingDirection"
+      },
+      "metadata" : {
+        "@type" : "@id",
+        "@id" : "sc:metadataLabels",
+        "@container" : "@list"
+      },
+      "language" : {
+        "@id" : "dc:language"
+      },
+      "iiif" : "http://iiif.io/api/image/2#",
+      "individuals" : {
+        "@type" : "sc:ViewingHint",
+        "@id" : "sc:individualsHint"
+      },
+      "collections" : {
+        "@type" : "@id",
+        "@id" : "sc:hasCollections",
+        "@container" : "@list"
+      },
+      "continuous" : {
+        "@type" : "sc:ViewingHint",
+        "@id" : "sc:continuousHint"
+      },
+      "dcterms" : "http://purl.org/dc/terms/",
+      "logo" : {
+        "@type" : "@id",
+        "@id" : "foaf:logo"
+      },
+      "foaf" : "http://xmlns.com/foaf/0.1/",
+      "height" : {
+        "@type" : "xsd:integer",
+        "@id" : "exif:height"
+      },
+      "dctypes" : "http://purl.org/dc/dcmitype/",
+      "stylesheet" : {
+        "@type" : "@id",
+        "@id" : "oa:styledBy"
+      },
+      "thumbnail" : {
+        "@type" : "@id",
+        "@id" : "foaf:thumbnail"
+      },
+      "images" : {
+        "@type" : "@id",
+        "@id" : "sc:hasImageAnnotations",
+        "@container" : "@list"
+      },
+      "item" : {
+        "@type" : "@id",
+        "@id" : "oa:item"
+      },
+      "svcs" : "http://rdfs.org/sioc/services#",
+      "bottom-to-top" : {
+        "@type" : "sc:ViewingDirection",
+        "@id" : "sc:bottomToTopDirection"
+      },
+      "resource" : {
+        "@type" : "@id",
+        "@id" : "oa:hasBody",
+        "@container" : "@set"
+      },
+      "profile" : {
+        "@type" : "@id",
+        "@id" : "dcterms:conformsTo"
+      },
+      "format" : {
+        "@id" : "dc:format"
+      },
+      "non-paged" : {
+        "@type" : "sc:ViewingHint",
+        "@id" : "sc:nonPagedHint"
+      },
+      "encoding" : {
+        "@id" : "cnt:characterEncoding"
+      },
+      "license" : {
+        "@type" : "@id",
+        "@id" : "dcterms:license"
+      },
+      "startCanvas" : {
+        "@type" : "@id",
+        "@id" : "sc:hasStartCanvas"
+      },
+      "canvases" : {
+        "@type" : "@id",
+        "@id" : "sc:hasCanvases",
+        "@container" : "@list"
+      },
+      "left-to-right" : {
+        "@type" : "sc:ViewingDirection",
+        "@id" : "sc:leftToRightDirection"
+      },
+      "style" : {
+        "@id" : "oa:styleClass"
+      },
+      "exif" : "http://www.w3.org/2003/12/exif/ns#",
+      "full" : {
+        "@type" : "@id",
+        "@id" : "oa:hasSource"
+      },
+      "top-to-bottom" : {
+        "@type" : "sc:ViewingDirection",
+        "@id" : "sc:topToBottomDirection"
+      },
+      "ranges" : {
+        "@type" : "@id",
+        "@id" : "sc:hasRanges",
+        "@container" : "@list"
+      },
+      "motivation" : {
+        "@type" : "@id",
+        "@id" : "oa:motivatedBy",
+        "@container" : "@set"
+      },
+      "xsd" : "http://www.w3.org/2001/XMLSchema#",
+      "description" : {
+        "@id" : "dc:description"
+      },
+      "rdfs" : "http://www.w3.org/2000/01/rdf-schema#",
+      "sequences" : {
+        "@type" : "@id",
+        "@id" : "sc:hasSequences",
+        "@container" : "@list"
+      },
+      "seeAlso" : {
+        "@type" : "@id",
+        "@id" : "foaf:page"
+      },
+      "sc" : "http://iiif.io/api/presentation/2#",
+      "oa" : "http://www.w3.org/ns/oa#",
+      "default" : {
+        "@type" : "@id",
+        "@id" : "oa:default"
+      },
+      "related" : {
+        "@type" : "@id",
+        "@id" : "dcterms:relation"
+      },
+      "top" : {
+        "@type" : "sc:ViewingHint",
+        "@id" : "sc:topHint"
+      },
+      "selector" : {
+        "@type" : "@id",
+        "@id" : "oa:hasSelector"
+      },
+      "value" : {
+        "@id" : "rdf:value"
+      },
+      "on" : {
+        "@type" : "@id",
+        "@id" : "oa:hasTarget"
+      },
+      "viewingHint" : {
+        "@type" : "@id",
+        "@id" : "sc:viewingHint"
+      },
+      "paged" : {
+        "@type" : "sc:ViewingHint",
+        "@id" : "sc:pagedHint"
+      },
+      "within" : {
+        "@type" : "@id",
+        "@id" : "dcterms:isPartOf"
+      },
+      "cnt" : "http://www.w3.org/2011/content#",
+      "structures" : {
+        "@type" : "@id",
+        "@id" : "sc:hasRanges",
+        "@container" : "@list"
+      },
+      "resources" : {
+        "@type" : "@id",
+        "@id" : "sc:hasAnnotations",
+        "@container" : "@list"
+      },
+      "label" : {
+        "@id" : "rdfs:label"
+      },
+      "rdf" : "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "service" : {
+        "@type" : "@id",
+        "@id" : "svcs:has_service"
+      },
+      "bytes" : {
+        "@id" : "cnt:bytes"
+      },
+      "manifests" : {
+        "@type" : "@id",
+        "@id" : "sc:hasManifests",
+        "@container" : "@list"
+      },
+      "width" : {
+        "@type" : "xsd:integer",
+        "@id" : "exif:width"
+      },
+      "attribution" : {
+        "@id" : "sc:attributionLabel"
+      },
+      "right-to-left" : {
+        "@type" : "sc:ViewingDirection",
+        "@id" : "sc:rightToLeftDirection"
+      },
+      "otherContent" : {
+        "@type" : "@id",
+        "@id" : "sc:hasLists",
+        "@container" : "@list"
+      },
+      "chars" : {
+        "@id" : "cnt:chars"
+      },
+      "dc" : "http://purl.org/dc/elements/1.1/"
+    } ],
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "http://d1351034-39d4-4a7b-9395-bfa6e7fd0571"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1453,826,76,114"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1490.43182,940.06494c0,-25.27056 12.63528,-50.54115 37.90584,-75.81171c0,-20.93482 -16.97102,-37.90584 -37.90584,-37.90584c-20.93482,0 -37.90584,16.97102 -37.90584,37.90584c25.27056,25.27056 37.90584,50.54115 37.90584,75.81171z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_a292c3d7-b2de-457b-8186-640c96b8dbb2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"45.48701\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fa19ae1b-a2bd-4c69-a867-fbb438e7d47b"
+    } ]
+  } ],
+  "@id" : "http://sas.gdmrdigital.com/annotation/list/7ff116859c8ad821231e62038a31ed09.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

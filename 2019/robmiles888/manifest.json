@@ -1,0 +1,645 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://d1351034-39d4-4a7b-9395-bfa6e7fd0571",
+	"@type": "sc:Manifest",
+	"label": "EAP dance images",
+	"logo": "https://cdn.iconscout.com/icon/free/png-256/nasa-282190.png",
+	"logo": "https://www2.le.ac.uk/projects/insularmss/images-logos/bl-logo/image",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Images found on eap.bl.uk using the search terms 'dance' or 'dancing'. Selection of images from different EAP collections, and from different 'files' within collections ",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+	"attribution": "Digitisation funded by the Endangered Archives Programme at the British Library. All images are from archives and private collections from the countries listed underneath each thumbnail.",
+	"sequences": [
+		{
+			"@id": "http://96bc9d9a-f81b-4a99-bfa4-c909a028ee4a",
+			"@type": "sc:Sequence",
+			"viewingHint": "individuals",
+			"viewingDirection": "top-to-bottom",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://feaa9f6a-b2eb-43fb-9e32-7c68253361c7",
+					"@type": "sc:Canvas",
+					"label": "Argentina",
+					"height": 1291,
+					"width": 1493,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://98807ea7-8157-428e-964d-2e6a9549a95b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP755/EAP755_1_1_91/1472.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP755/EAP755_1_1_91/1472.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1291,
+								"width": 1493
+							},
+							"on": "http://feaa9f6a-b2eb-43fb-9e32-7c68253361c7"
+						}
+					],
+					"metadata": [
+						{
+							"label": "Description",
+							"value": "test description - where does this display?"
+						}
+					]
+				},
+				{
+					"@id": "http://14e0cb4c-629f-4c12-8090-fbaf8b2270a0",
+					"@type": "sc:Canvas",
+					"label": "Mali",
+					"height": 4066,
+					"width": 3656,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://79bb6c33-9cc7-427c-88fd-0362f3b47302",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP449/EAP449_2_16/11385.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP449/EAP449_2_16/11385.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4066,
+								"width": 3656
+							},
+							"on": "http://14e0cb4c-629f-4c12-8090-fbaf8b2270a0"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://fa19ae1b-a2bd-4c69-a867-fbb438e7d47b",
+					"@type": "sc:Canvas",
+					"label": "Peru",
+					"height": 4670,
+					"width": 3087,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://045df2a6-74ad-493a-b5c4-00e81da27c5b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP298/EAP298_2_1/29769.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP298/EAP298_2_1/29769.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4670,
+								"width": 3087
+							},
+							"on": "http://fa19ae1b-a2bd-4c69-a867-fbb438e7d47b"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://a65559bf-3d75-43be-838a-b84035a09d9d",
+					"@type": "sc:Canvas",
+					"label": "Peru",
+					"height": 3194,
+					"width": 4693,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://584dc88b-db37-40e4-91a3-91291ae9bfed",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP298/EAP298_2_1/29781.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP298/EAP298_2_1/29781.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 3194,
+								"width": 4693
+							},
+							"on": "http://a65559bf-3d75-43be-838a-b84035a09d9d"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Description",
+							"value": "Test description to see where this displays"
+						}
+					]
+				},
+				{
+					"@id": "http://106f8a26-5c35-4fef-9556-877da4c076de",
+					"@type": "sc:Canvas",
+					"label": "Bulgaria",
+					"height": 1529,
+					"width": 2072,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://719ae94c-c2ef-459a-8584-2aff81b67f02",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP285/EAP285_2_7/1.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP285/EAP285_2_7/1.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1529,
+								"width": 2072
+							},
+							"on": "http://106f8a26-5c35-4fef-9556-877da4c076de"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://532e40d3-f9ff-4b81-bf32-17d2915cf1de",
+					"@type": "sc:Canvas",
+					"label": "Bulgaria",
+					"height": 964,
+					"width": 1514,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e2c49761-180e-453a-87d4-b5d61e95bba3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP285/EAP285_2_21/48.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP285/EAP285_2_21/48.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 964,
+								"width": 1514
+							},
+							"on": "http://532e40d3-f9ff-4b81-bf32-17d2915cf1de"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://6b9c29c4-2318-4f99-ae0c-eb33cc97d24b",
+					"@type": "sc:Canvas",
+					"label": "Argentina",
+					"height": 1285,
+					"width": 1526,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://bbbf940a-6b98-48e8-a1d3-456bcf36cfd0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP755/EAP755_1_1_102/1549.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP755/EAP755_1_1_102/1549.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1285,
+								"width": 1526
+							},
+							"on": "http://6b9c29c4-2318-4f99-ae0c-eb33cc97d24b"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://256b74b4-69ed-424e-afe0-79929b086f79",
+					"@type": "sc:Canvas",
+					"label": "Argentina",
+					"height": 1337,
+					"width": 1287,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d2256d89-0430-47c6-a97b-a231ad80ba9a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP755/EAP755_1_1_102/1550.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP755/EAP755_1_1_102/1550.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1337,
+								"width": 1287
+							},
+							"on": "http://256b74b4-69ed-424e-afe0-79929b086f79"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://a3f2152e-b152-4a46-9999-a7a5e0a568bb",
+					"@type": "sc:Canvas",
+					"label": "Peru",
+					"height": 2496,
+					"width": 3414,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://863597b9-84d3-43b4-aae7-49672ab65278",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP298/EAP298_14_2/30836.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP298/EAP298_14_2/30836.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2496,
+								"width": 3414
+							},
+							"on": "http://a3f2152e-b152-4a46-9999-a7a5e0a568bb"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://5d698df9-b2de-4fc2-a0b9-8d5f983cdd99",
+					"@type": "sc:Canvas",
+					"label": "Argentina",
+					"height": 1330,
+					"width": 1288,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7921d271-123a-4be3-853f-e9045635ebc0",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP755/EAP755_1_1_91/1480.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP755/EAP755_1_1_91/1480.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1330,
+								"width": 1288
+							},
+							"on": "http://5d698df9-b2de-4fc2-a0b9-8d5f983cdd99"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://1c7d7376-67f4-4c40-8351-de56bfc541c3",
+					"@type": "sc:Canvas",
+					"label": "Argentina",
+					"height": 1340,
+					"width": 1343,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://3da62a14-5697-4600-95b4-49f17a0acbf8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP755/EAP755_1_1_110/1608.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP755/EAP755_1_1_110/1608.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1340,
+								"width": 1343
+							},
+							"on": "http://1c7d7376-67f4-4c40-8351-de56bfc541c3"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b8f055f8-1e55-444c-8c0b-9139393822c7",
+					"@type": "sc:Canvas",
+					"label": "Argentina",
+					"height": 1341,
+					"width": 1295,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://839ba808-7ca9-44ea-bc41-429425659ab3",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.eap.bl.uk/EAP755/EAP755_1_1_31/859.jp2/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.eap.bl.uk/EAP755/EAP755_1_1_31/859.jp2",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 1341,
+								"width": 1295
+							},
+							"on": "http://b8f055f8-1e55-444c-8c0b-9139393822c7"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
