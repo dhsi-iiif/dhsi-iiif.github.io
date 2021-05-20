@@ -23,7 +23,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 1920,
-  "@id" : "http://dhsi-iiif.github.io/2019/cosaw/iiif/#142 - 'Bonhams _ 19th Century English School A view of Todmorden' - www_bonhams_com",
+  "@id" : "http://dhsi-iiif.github.io/2019/cosaw/iiif/142",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 2854
 }

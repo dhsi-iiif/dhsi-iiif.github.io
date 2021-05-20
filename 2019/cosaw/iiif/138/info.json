@@ -14,7 +14,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 1920,
-  "@id" : "http://localhost:8887/iiif/#138 - 'Carolyn Kennett on Twitter_ _A fire red sunset at Trewavas entrance grave tonight #sunset #Cornwall ??? https___t_co_j6fsPRHh_' - twitter_com",
+  "@id" : "http://localhost:8887/iiif/138",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 2135
 }
