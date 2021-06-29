@@ -90,6 +90,13 @@
 							"on": "http://f08411f5-5daa-4f60-b6ce-8348916c7197"
 						}
 					],
+				"otherContent": [
+	{
+			"@id": "https://dhsi-iiif.github.io/2019/giudicirni/annotations2.json",
+			"@type": "sc:AnnotationList",
+			"label": "My fantastic annotations"
+	}
+					],
 					"related": ""
 				},
 				{
