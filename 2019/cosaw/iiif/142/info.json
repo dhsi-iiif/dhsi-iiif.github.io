@@ -1,0 +1,29 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2, 4, 8 ],
+    "width" : 768,
+    "height" : 768
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 384,
+    "height" : 570
+  }, {
+    "width" : 480,
+    "height" : 713
+  }, {
+    "width" : 640,
+    "height" : 951
+  }, {
+    "width" : 960,
+    "height" : 1427
+  }, {
+    "width" : 1920,
+    "height" : 2854
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1920,
+  "@id" : "http://dhsi-iiif.github.io/2019/cosaw/iiif/142",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2854
+}

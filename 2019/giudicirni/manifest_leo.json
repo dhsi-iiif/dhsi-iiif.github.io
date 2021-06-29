@@ -54,7 +54,7 @@
 					],
 					"otherContent": [
     {
-        "@id": "http://localhost:8887/annotations1.json",
+        "@id": "https://dhsi-iiif.github.io/2019/giudicirni/annotations1.json",
         "@type": "sc:AnnotationList",
         "label": "My fantastic annotations"
     }
