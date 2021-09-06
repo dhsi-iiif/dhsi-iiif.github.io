@@ -63,5 +63,5 @@
     "height": 2334, 
     "width": 1696, 
     "@context": "http://iiif.io/api/image/2/context.json", 
-    "@id": "https://glenrobson.github.io/iiif/welsh_book/page001"
+    "@id": "https://dhsi-iiif.github.io/2019/dariobaldini98/page001"
 }
